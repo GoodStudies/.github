@@ -1,5 +1,5 @@
 <p align="center">
-	![plot](../files/logo.png)
+	<img width="400"src="../files/logo.png">
 <p>
 
 <p align="center">
