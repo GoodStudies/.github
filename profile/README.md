@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="400"src="../files/logo.png">
+	<img width="400"src="https://raw.githubusercontent.com/GoodStudies/.github/main/files/logo.png?raw=true">
 <p>
 
 <p align="center">
